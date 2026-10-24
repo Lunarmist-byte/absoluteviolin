@@ -79,7 +79,7 @@ Place your SoundFont file in the project root:
 ```text
 potenvio/violin.sf2
 ```
-The link for Gdrive for the violin synth:
+The link for Gdrive for the violin synth: [https://drive.google.com/file/d/1nUaYgHlcNx9-o53uc_jFjv1838OKeDw6/view?usp=sharing](GDrive)
 The Python code should point to the file's location. For example:
 
 ```python
