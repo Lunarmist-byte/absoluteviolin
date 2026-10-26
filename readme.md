@@ -153,19 +153,5 @@ Turn the potentiometer to control the notes.
 | FluidSynth MIDI-device warnings | The project generates notes directly through FluidSynth; a separate MIDI input device is not normally required. |
 | Notes do not respond | Confirm Python receives changing potentiometer readings and check the note-triggering logic. |
 
-## Future Improvements
-
-- Add a physical button for bow control.
-- Add pitch bending and vibrato.
-- Improve note transitions and sound continuity.
-- Add adjustable volume and pitch range.
-- Build a graphical user interface.
-- Explore pressure-sensitive bow control.
-
-## License
-
-Choose a licence for your original source code, such as the MIT License, if appropriate. Check the SoundFont's separate licence and attribution requirements before redistributing it.
-
----
 
 Built with Arduino Nano, Python, and FluidSynth.
